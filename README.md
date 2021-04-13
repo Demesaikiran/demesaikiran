@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/demesaikiran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="demesaikiran" height="30" width="40" /></a>
 <a href="https://instagram.com/demesaikiran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="demesaikiran" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/demesaikiran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="demesaikiran" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCcjajovcTCr59o_qRYR-KsQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="demesaikiran" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/demesaikiran84" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="demesaikiran84" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@demesaikiran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@demesaikiran" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<demesaikiran>/https://auth.geeksforgeeks.org/user/demesaikiran/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="<demesaikiran>/https://auth.geeksforgeeks.org/user/demesaikiran/profile" height="30" width="40" /></a>
