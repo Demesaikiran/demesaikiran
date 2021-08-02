@@ -6,7 +6,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demesaikiran" alt="demesaikiran" /></a> </p>
-<img align="right" alt="Coding" width="460" src="http://paulpaulbd.com/wp-content/uploads/2018/10/website-designing.gif">
+<img align="right" alt="Coding" width="460" src="https://i.gifer.com/7SvE.mp4">
 
 
 - 👨‍💻 You can also check out my portfolio at [https://demesaikiran.github.io/](https://demesaikiran.github.io/)
