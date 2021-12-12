@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQGNEKmx7V1wtA/profile-displaybackgroundimage-shrink_200_800/0/1625379854955?e=1633564800&v=beta&t=DNSmvEs4FdvQyKQaM9QZuVHbWg6p6cjEjgNCniwwQCc)](https://demesaikiran.github.io/)
+[![MasterHead](https://sanskrit.ie/images/gita_banner2.png)](https://demesaikiran.github.io/)
 <h1 align="center">Hi 👋, I'm Deme Sai Kiran</h1>
 <h3 align="center">Coder and still Learner</h3>
 
