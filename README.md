@@ -1,4 +1,4 @@
-[![MasterHead](https://www.artofliving.org/sites/www.artofliving.org/files/styles/original_image/public/wysiwyg_imageupload/Follow-Dharma-irrespective-of-opinions.jpg)](https://demesaikiran.github.io/)
+[![MasterHead](https://designimages.appypie.com/linkedin/linkedin-60-text-handwriting.webp)](https://demesaikiran.github.io/)
 <h1 align="center">Hi 👋, I'm Deme Sai Kiran</h1>
 <h3 align="center">Coder and still Learner</h3>
 
