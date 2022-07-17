@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [spotle.ai/DemeSaiKiran/post](spotle.ai/DemeSaiKiran/post)
 
-- 📫 How to reach me **demesaikiran@gmail.com**
+- 📫 You can reach me at **demesaikiran@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,17 +47,19 @@
   <!-- <a href="https://wordpress.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="wordpress" width="40" height="40"/> </a> -->
   </p>
 
-<h3 align="left">Tools & Others:</h3>
+<h3 align="left">Tools & Frameworks:</h3>
 <p align="left">
-  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+  <a href="https://spring.io/" target="_blank"> <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring" width="40" height="40"/> </a> 
+  <a href="https://airflow.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="Airflow" width="40" height="40"/> </a> 
+   <a href="https://www.looker.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354011/looker.svg" alt="Looker" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
-  <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="github" width="40" height="40"/> </a>  
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://atom.io/" target="_blank"> <img src="https://img.icons8.com/emoji/48/000000/atom-symbol-emoji.png" alt="atom" width="40" height="40"/> </a>  
+  <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="github" width="40" height="40"/> </a> 
+  <a href = "https://code.visualstudio.com/" target = "_blank"> <img src = "https://img.icons8.com/color/452/visual-studio-code-2019.png" alt = "VS Code" width="40" height="40" /> </a>
   <a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/windows-10.png" alt="microsft windows" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+  
   </p>
 
 <!-- 
