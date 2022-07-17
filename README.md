@@ -49,9 +49,9 @@
 
 <h3 align="left">Tools & Frameworks:</h3>
 <p align="left">
-  <a href="https://spring.io/" target="_blank"> <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring" width="40" height="40"/> </a> 
+  <a href="https://spring.io/" target="_blank"> <img src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" alt="Spring" width="40" height="40"/> </a> 
   <a href="https://airflow.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="Airflow" width="40" height="40"/> </a> 
-   <a href="https://www.looker.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354011/looker.svg" alt="Looker" width="40" height="40"/> </a>
+   <a href="https://www.looker.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="Looker" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
   <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="github" width="40" height="40"/> </a> 
   <a href = "https://code.visualstudio.com/" target = "_blank"> <img src = "https://img.icons8.com/color/452/visual-studio-code-2019.png" alt = "VS Code" width="40" height="40" /> </a>
