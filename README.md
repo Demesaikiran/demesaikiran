@@ -47,6 +47,7 @@
   <!-- <a href="https://wordpress.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="wordpress" width="40" height="40"/> </a> -->
   </p>
 
+
 <h3 align="left">Tools & Frameworks:</h3>
 <p align="left">
   <a href="https://spring.io/" target="_blank"> <img src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" alt="Spring" width="40" height="40"/> </a> 
@@ -55,11 +56,18 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
   <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="github" width="40" height="40"/> </a> 
   <a href = "https://code.visualstudio.com/" target = "_blank"> <img src = "https://img.icons8.com/color/452/visual-studio-code-2019.png" alt = "VS Code" width="40" height="40" /> </a>
-  <a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/windows-10.png" alt="microsft windows" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
   
+  </p>
+  
+<h3 align="left">Tools & Frameworks:</h3>
+<p align="left">
+  
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://www.apple.com/in/macos/monterey/" target="_blank"> <img src="https://img.icons8.com/color/344/mac-logo.png" alt="MacOS" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/windows-10.png" alt="microsft windows" width="40" height="40"/> </a>
+  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+ 
   </p>
 
 <!-- 
