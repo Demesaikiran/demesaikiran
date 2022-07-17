@@ -60,7 +60,7 @@
   
   </p>
   
-<h3 align="left">Tools & Frameworks:</h3>
+<h3 align="left">Operating system:</h3>
 <p align="left">
   
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
