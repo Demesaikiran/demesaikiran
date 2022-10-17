@@ -1,11 +1,11 @@
-[![MasterHead](https://designimages.appypie.com/linkedin/linkedin-15-linkedin-banner-examples.webp)](https://demesaikiran.github.io/)
+[![MasterHead](https://github.com/Demesaikiran/JNTUHCESRegistrationForm/blob/master/github_banner.png)](https://demesaikiran.github.io/)
 <h1 align="center">Hi 👋, I'm Deme Sai Kiran</h1>
 <h3 align="center">Coder and still Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demesaikiran&label=Profile%20views&color=0e75b6&style=flat" alt="demesaikiran" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demesaikiran" alt="demesaikiran" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demesaikiran&row=1" alt="demesaikiran" /></a> </p>
 <img align="right" alt="Coding" width="460" src="https://github.com/Demesaikiran/JNTUHCESRegistrationForm/blob/master/coder.svg">
 
 
@@ -70,12 +70,11 @@
  
   </p>
 
-<!-- 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/demesaikiran"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="demesaikiran" /></p> --><br><br><br>
+<br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demesaikiran&show_icons=true&locale=en&layout=compact" alt="demesaikiran" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=demesaikiran&show_icons=true&locale=en" alt="demesaikiran" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demesaikiran&" alt="demesaikiran" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demesaikiran&" alt="demesaikiran" /></p> -->
